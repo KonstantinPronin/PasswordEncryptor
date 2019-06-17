@@ -1,4 +1,6 @@
 # PasswordEncryptor
+[![Build Status](https://travis-ci.org/KonstantinPronin/PasswordEncryptor.svg?branch=master)](https://travis-ci.org/KonstantinPronin/PasswordEncryptor)
+
 Утилита создана для получения хеша или шифрования пароля, чтобы исключить его хранение в открытом виде.
 Хеширование осуществляется алгоритмом SHA256 с добавлением соли.
 Шифрование осуществляется алгоритмом AES256.
